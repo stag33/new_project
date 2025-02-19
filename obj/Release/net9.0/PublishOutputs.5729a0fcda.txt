@@ -1,0 +1,7 @@
+C:\workspace\new_project\bin\Release\net9.0\publish\new_project.exe
+C:\workspace\new_project\bin\Release\net9.0\publish\appsettings.Development.json
+C:\workspace\new_project\bin\Release\net9.0\publish\appsettings.json
+C:\workspace\new_project\bin\Release\net9.0\publish\new_project.dll
+C:\workspace\new_project\bin\Release\net9.0\publish\new_project.deps.json
+C:\workspace\new_project\bin\Release\net9.0\publish\new_project.runtimeconfig.json
+C:\workspace\new_project\bin\Release\net9.0\publish\new_project.pdb
